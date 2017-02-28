@@ -1,4 +1,4 @@
-Hệ thống phục vụ hoạt động quản lí đặt phòng của một khách sạn.
+Hệ thống quản lí đặt phòng của một khách sạn.
  
 Trong đó:
 - Nhân viên quản lí (ROLE_ADMIN) có thể :
